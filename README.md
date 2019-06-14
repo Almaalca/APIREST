@@ -16,7 +16,7 @@ _Para poder instalar este proyecto debemos seguir los siguentes pasos.
 
 
 ## Deployment 📦
-_Agrega notas adicionales sobre como hacer deploy_
+
 
 ## Construido con 🛠️
 
