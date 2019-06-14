@@ -2,7 +2,7 @@
 Este repositorio corresponde a la segunda pregunta. 
 
 ## Comenzando 🚀
-_Con estas intrucciones podras duplicar y poner en ejecución el presente proyecto.
+_Con estas intrucciones podras duplicar y ejecutar el presente proyecto.
 Mira **Deployment** para conocer como desplegar el proyecto._
 
 
