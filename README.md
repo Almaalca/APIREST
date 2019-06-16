@@ -7,16 +7,14 @@ Mira **Deployment** para conocer como desplegar el proyecto._
 
 
 ### Pre-requisitos 📋
-Para poder instalar este proyecto debemos poseer como pre-requisito: NetBeans, en Bundle para JEE.
+Para poder instalar este proyecto debemos poseer como pre-requisito: Java, NetBeans en Bundle para JEE o otro similar.
 
 
-### Instalación 🔧
-_Para poder instalar este proyecto debemos seguir los siguentes pasos.
-* 
-
-
-## Deployment 📦
-
+### Deployment 📦
+_Para poder replicar se debe:
+* Decargar las librerias mecionada en *Construido con*.
+* Agregar librerias al proyecto.
+* Ejecutar
 
 ## Construido con 🛠️
 
