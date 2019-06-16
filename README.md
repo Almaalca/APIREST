@@ -1,28 +1,29 @@
 # APIREST
-Este repositorio corresponde a la segunda pregunta. 
+This project corresponds to the second question and was developed in java.
 
-## Comenzando 🚀
-_Con estas intrucciones podras duplicar y ejecutar el presente proyecto.
-Mira **Deployment** para conocer como desplegar el proyecto._
+## Started 🚀
+_With these instructions you can duplicate and execute the present project.
+See ** Deployment ** to learn how to deploy the project._
 
 
-### Pre-requisitos 📋
-Para poder instalar este proyecto debemos poseer como pre-requisito: Java, NetBeans en Bundle para JEE o otro similar.
+### Prerequisites📋
+In order to install this project we must have as prerequisite: Java, NetBeans in Bundle for JEE or similar.
 
 
 ### Deployment 📦
-_Para poder replicar se debe:
-* Decargar las librerias mecionada en *Construido con*.
-* Agregar librerias al proyecto.
-* Ejecutar
+_To be able to replicate, you must:
+* Download the libraries mentioned in **Built with**.
+* Add libraries to the project.
+* Run
 
-## Construido con 🛠️
+## Built with  🛠️
 
-_Las herramientas que se utilizan en el presente proyecto son:_
+_
+The libraries used in this project are:_
 
-* [GSON] (https://repo1.maven.org/maven2/com/google/code/gson/gson/2.6.2/) - Libreria utilizada para  convertir un objeto en JSon
-* [Jerser] (https://jersey.github.io/download.html) - Libreria para utilizar el servlet mapping
+* [GSON] (https://repo1.maven.org/maven2/com/google/code/gson/gson/2.6.2/) - Library used to convert an object to JSon
+* [Jerser] (https://jersey.github.io/download.html) - Library to use the servlet mapping
 
 
-## Autor ✒️
+## Author ✒️
 * **Aldis Almeida**
